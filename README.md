@@ -1,9 +1,9 @@
 # Android-OCR-GoogleML
-안드로이드 OCR 구현 · GoogleML API 활용
+안드로이드 OCR 구현 · Google Vision API 활용
 
 ### 개발 환경 및 기술 스택
 Android Studio / JAVA<br/>
-Google ML API 활용
+Google Vision API 활용
 OCR - Reader CodeLab Starter
 
 ### 개요
